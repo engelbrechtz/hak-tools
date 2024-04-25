@@ -13,6 +13,6 @@ run
 ./hak-tools.sh
 ```
 
-after done installing,
+after done installing on Macbook,
 
 Start Pentesting!
