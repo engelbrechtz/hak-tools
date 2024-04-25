@@ -13,4 +13,6 @@ run
 ./hak-tools.sh
 ```
 
+after done installing,
+
 Start Pentesting!
