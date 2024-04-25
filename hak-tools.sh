@@ -6,6 +6,7 @@ brew install gobuster
 brew install nikto
 brew install wpscanteam/tap/wpscan
 brew install --cask metasploit
+brew install john
 brew install exploitdb
 brew install hashcat
 brew install sambabrew install binwalk
