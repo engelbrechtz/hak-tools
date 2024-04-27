@@ -14,5 +14,6 @@ brew install exiftool
 brew install aircrack-ng
 brew install hydra
 brew install sqlmap
+brew install pwncat
 echo "Done installing! Start hacking away.."
 
