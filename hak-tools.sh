@@ -1,3 +1,4 @@
+echo "Started Installation.."
 brew install git 
 brew install --cask burp-suite
 brew install wireshark
