@@ -1,5 +1,7 @@
 # hak-tools
-Homebrew Penertration Testing tools for macos m1/m2 etc
+Homebrew Penertration Testing tools for macos m1/m2 etc,
+
+TURN YOUR MACOS INTO A ETHICAL HACKING ENVIROMENT
 
 ![Untitled design](https://github.com/engelbrechtz/hak-tools/assets/62638427/98338299-3de1-4881-b826-979c359c3453)
 
