@@ -3,7 +3,7 @@ Homebrew Penertration Testing tools for macos m1/m2 etc,
 
 TURN YOUR MACOS INTO A ETHICAL HACKING ENVIROMENT
 
-![Untitled design](https://github.com/engelbrechtz/hak-tools/assets/62638427/98338299-3de1-4881-b826-979c359c3453)
+![Untitled design (1)](https://github.com/engelbrechtz/hak-tools/assets/62638427/8671175d-cde3-426d-bbb6-0c250e01ae00)
 
 Ready to beef up your cybersecurity arsenal on macOS M1/M2? Our bash script makes it a breeze. With Homebrew, it installs all the key penetration testing tools you need for CTFS and cyber defense. From network scanners to vulnerability testers, it's all there. Just run the script, and your macOS device will be locked and loaded for any security task.
 
