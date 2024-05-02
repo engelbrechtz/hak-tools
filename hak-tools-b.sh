@@ -1,4 +1,4 @@
-echo "Started Installation.."
+echo "Started Basic Installation.."
 brew install git 
 brew install --cask burp-suite
 brew install nmap
